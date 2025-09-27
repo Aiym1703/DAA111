@@ -1,8 +1,5 @@
 # DAA111 – Divide & Conquer (AITU)
 
-This is a distinct build of the assignment with **different seeds, parameters and plots**.
-Implements MergeSort (reusable buffer, insertion cutoff 20), QuickSort (random pivot, smaller-first + cutoff 12),
-Deterministic Select (MoM5), and Closest Pair 2D — all **instrumented with metrics**.
 
 ## Build & run
 ```bash
